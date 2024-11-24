@@ -22,7 +22,7 @@ int main(void) {
     scanf("%d", &base);
   }
 
-  printf("Here is some information about the given number:\n");
+  printf("Here is some information about the given number: %d\n", num);
 
   // sign
   printf("It's sign is: %c\n", sign(num));

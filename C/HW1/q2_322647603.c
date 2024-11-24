@@ -16,7 +16,7 @@ int main(void) {
       return 1;
     }
 	
-    printf("Invalid input score:\nPlease enter a new exam score in the range 0 - 100:\n");
+    printf("Invalid input score: %d\nPlease enter a new exam score in the range 0 - 100:\n", grade);
     scanf("%d", &grade);
   }
 

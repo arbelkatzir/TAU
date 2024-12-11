@@ -1,21 +1,21 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include <stdlib.h>
 
-#define board_size 10
-void print_board(char board[board_size][board_size], int real_board_size);
-void move(char board[board_size][board_size], int real_board_size, int curr_player);
-int invalid_indices(char board[board_size][board_size], int real_board_size, int row, int col);
-int check_rows(char board[board_size][board_size], int real_board_size);
-int check_columns(char board[board_size][board_size], int real_board_size);
-int check_diagonals(char board[board_size][board_size], int real_board_size);
-int check_tie(char board[board_size][board_size], int real_board_size);
+#define BOARD_SIZE 10
+
+void print_board(char board[BOARD_SIZE][BOARD_SIZE], int real_board_size);
+void move(char board[BOARD_SIZE][BOARD_SIZE], int real_board_size, int curr_player);
+int invalid_indices(char board[BOARD_SIZE][BOARD_SIZE], int real_board_size, int row, int col);
+int check_rows(char board[BOARD_SIZE][BOARD_SIZE], int real_board_size);
+int check_columns(char board[BOARD_SIZE][BOARD_SIZE], int real_board_size);
+int check_diagonals(char board[BOARD_SIZE][BOARD_SIZE], int real_board_size);
+int check_tie(char board[BOARD_SIZE][BOARD_SIZE], int real_board_size);
 
 
 int main()
 {
     int real_board_size; // Variable to store the board size
-    char board[board_size][board_size]; // Static 10x10 array
+    char board[BOARD_SIZE][BOARD_SIZE]; // Static 10x10 array
     int curr_player = 1; // Player 1 starts
     int winner = 0; // 0 - ongoing, 1 - player 1 wins, 2 - player 2 wins, 3 - tie
     int game_is_on = 1; // Game loop control
@@ -66,11 +66,11 @@ int main()
     else if (winner == 3) {
         printf("There is a Tie!\n");
     }
-    
-	return 0;
+
+    return 0;
 }
 
-void print_board(char board[board_size][board_size], int real_board_size) {
+void print_board(char board[BOARD_SIZE][BOARD_SIZE], int real_board_size) {
     for (int i = 0; i < real_board_size; i++) {
         for (int j = 0; j < real_board_size; j++) {
             printf("%c ", board[i][j]); // Print each cell with a space
@@ -79,7 +79,7 @@ void print_board(char board[board_size][board_size], int real_board_size) {
     }
 }
 
-void move(char board[board_size][board_size], int real_board_size, int curr_player) {
+void move(char board[BOARD_SIZE][BOARD_SIZE], int real_board_size, int curr_player) {
     int row, col;
     printf("Player %d, please insert your move:\n", curr_player);
     scanf("%d , %d", &row, &col);
@@ -95,7 +95,7 @@ void move(char board[board_size][board_size], int real_board_size, int curr_play
 
 }
 
-int invalid_indices(char board[board_size][board_size], int real_board_size, int row, int col) {
+int invalid_indices(char board[BOARD_SIZE][BOARD_SIZE], int real_board_size, int row, int col) {
     if (row < 1 || row > real_board_size || col < 1 || col > real_board_size) {
         return 1; // Out-of-bounds indices
     }
@@ -106,7 +106,7 @@ int invalid_indices(char board[board_size][board_size], int real_board_size, int
 }
 
 
-int check_rows(char board[board_size][board_size], int real_board_size) {
+int check_rows(char board[BOARD_SIZE][BOARD_SIZE], int real_board_size) {
     for (int row = 0; row < real_board_size; row++) {
         char curr_cell = board[row][0];
         if (curr_cell != '-') {
@@ -125,7 +125,7 @@ int check_rows(char board[board_size][board_size], int real_board_size) {
     return 0; // No winner in rows
 }
 
-int check_columns(char board[board_size][board_size], int real_board_size) {
+int check_columns(char board[BOARD_SIZE][BOARD_SIZE], int real_board_size) {
     for (int col = 0; col < real_board_size; col++) {
         char curr_cell = board[0][col];
         if (curr_cell != '-') {
@@ -144,7 +144,7 @@ int check_columns(char board[board_size][board_size], int real_board_size) {
     return 0; // No winner in columns
 }
 
-int check_diagonals(char board[board_size][board_size], int real_board_size) {
+int check_diagonals(char board[BOARD_SIZE][BOARD_SIZE], int real_board_size) {
     // Check main diagonal
     char curr_cell = board[0][0];
     if (curr_cell != '-') {
@@ -178,7 +178,7 @@ int check_diagonals(char board[board_size][board_size], int real_board_size) {
     return 0; // No winner in diagonals
 }
 
-int check_tie(char board[board_size][board_size], int real_board_size) {
+int check_tie(char board[BOARD_SIZE][BOARD_SIZE], int real_board_size) {
     for (int row = 0; row < real_board_size; row++) {
         for (int col = 0; col < real_board_size; col++) {
             if (board[row][col] == '-') {

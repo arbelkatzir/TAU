@@ -1,0 +1,7 @@
+﻿  encrypt.c
+C:\Users\yuval\OneDrive\Pictures\Documents\arbel\Data Science\TAU\C\hw5\HW5 - new\encrypt.c(23,9): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\yuval\OneDrive\Pictures\Documents\arbel\Data Science\TAU\C\hw5\HW5 - new\encrypt.c(116,22): warning C4013: 'none_decryption' undefined; assuming extern returning int
+C:\Users\yuval\OneDrive\Pictures\Documents\arbel\Data Science\TAU\C\hw5\HW5 - new\encrypt.c(120,22): warning C4013: 'flip_even_decryption' undefined; assuming extern returning int
+C:\Users\yuval\OneDrive\Pictures\Documents\arbel\Data Science\TAU\C\hw5\HW5 - new\encrypt.c(125,22): warning C4013: 'swap_3_decryption' undefined; assuming extern returning int
+C:\Users\yuval\OneDrive\Pictures\Documents\arbel\Data Science\TAU\C\hw5\HW5 - new\encrypt.c(130,22): warning C4013: 'rot_and_center_5_decryption' undefined; assuming extern returning int
+  HW5 - new.vcxproj -> C:\Users\yuval\OneDrive\Pictures\Documents\arbel\Data Science\TAU\C\HW4\EX1\x64\Debug\HW5 - new.exe

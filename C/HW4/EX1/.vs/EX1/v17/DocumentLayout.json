@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\HW4\\EX1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60463453-E693-4752-BEB4-9824D5ADEDDC}|..\\..\\hw5\\HW5 - new\\HW5 - new.vcxproj|C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60463453-E693-4752-BEB4-9824D5ADEDDC}|..\\..\\hw5\\HW5 - new\\HW5 - new.vcxproj|C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\encrypt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60463453-E693-4752-BEB4-9824D5ADEDDC}|..\\..\\hw5\\HW5 - new\\HW5 - new.vcxproj|C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\file_utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60463453-E693-4752-BEB4-9824D5ADEDDC}|..\\..\\hw5\\HW5 - new\\HW5 - new.vcxproj|C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\encrypt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60463453-E693-4752-BEB4-9824D5ADEDDC}|..\\..\\hw5\\HW5 - new\\HW5 - new.vcxproj|C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\algs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60463453-E693-4752-BEB4-9824D5ADEDDC}|..\\..\\hw5\\HW5 - new\\HW5 - new.vcxproj|C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\error_types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60463453-E693-4752-BEB4-9824D5ADEDDC}|..\\..\\hw5\\HW5 - new\\HW5 - new.vcxproj|C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\algs.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60463453-E693-4752-BEB4-9824D5ADEDDC}|..\\..\\hw5\\HW5 - new\\HW5 - new.vcxproj|C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\file_utils.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60463453-E693-4752-BEB4-9824D5ADEDDC}|..\\..\\hw5\\HW5 - new\\HW5 - new.vcxproj|C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\parser.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "encrypt.c",
+              "DocumentMoniker": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\encrypt.c",
+              "RelativeDocumentMoniker": "..\\..\\hw5\\HW5 - new\\encrypt.c",
+              "ToolTip": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\encrypt.c",
+              "RelativeToolTip": "..\\..\\hw5\\HW5 - new\\encrypt.c",
+              "ViewState": "AQIAADEAAAAAAAAAAAAywE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-23T08:26:14.268Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "encrypt.h",
+              "DocumentMoniker": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\encrypt.h",
+              "RelativeDocumentMoniker": "..\\..\\hw5\\HW5 - new\\encrypt.h",
+              "ToolTip": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\encrypt.h",
+              "RelativeToolTip": "..\\..\\hw5\\HW5 - new\\encrypt.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-23T08:35:02.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "parser.c",
+              "DocumentMoniker": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\parser.c",
+              "RelativeDocumentMoniker": "..\\..\\hw5\\HW5 - new\\parser.c",
+              "ToolTip": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\parser.c",
+              "RelativeToolTip": "..\\..\\hw5\\HW5 - new\\parser.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-23T08:23:28.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "file_utils.h",
+              "DocumentMoniker": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\file_utils.h",
+              "RelativeDocumentMoniker": "..\\..\\hw5\\HW5 - new\\file_utils.h",
+              "ToolTip": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\file_utils.h",
+              "RelativeToolTip": "..\\..\\hw5\\HW5 - new\\file_utils.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-23T08:05:34.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\main.c",
+              "RelativeDocumentMoniker": "..\\..\\hw5\\HW5 - new\\main.c",
+              "ToolTip": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\main.c",
+              "RelativeToolTip": "..\\..\\hw5\\HW5 - new\\main.c",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-23T07:54:43.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "file_utils.c",
+              "DocumentMoniker": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\file_utils.c",
+              "RelativeDocumentMoniker": "..\\..\\hw5\\HW5 - new\\file_utils.c",
+              "ToolTip": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\file_utils.c",
+              "RelativeToolTip": "..\\..\\hw5\\HW5 - new\\file_utils.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-23T07:57:13.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "algs.h",
+              "DocumentMoniker": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\algs.h",
+              "RelativeDocumentMoniker": "..\\..\\hw5\\HW5 - new\\algs.h",
+              "ToolTip": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\algs.h",
+              "RelativeToolTip": "..\\..\\hw5\\HW5 - new\\algs.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-23T07:56:50.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "error_types.h",
+              "DocumentMoniker": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\error_types.h",
+              "RelativeDocumentMoniker": "..\\..\\hw5\\HW5 - new\\error_types.h",
+              "ToolTip": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\error_types.h",
+              "RelativeToolTip": "..\\..\\hw5\\HW5 - new\\error_types.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-23T07:56:26.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "algs.c",
+              "DocumentMoniker": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\algs.c",
+              "RelativeDocumentMoniker": "..\\..\\hw5\\HW5 - new\\algs.c",
+              "ToolTip": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\hw5\\HW5 - new\\algs.c",
+              "RelativeToolTip": "..\\..\\hw5\\HW5 - new\\algs.c",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAywHAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-23T07:56:00.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

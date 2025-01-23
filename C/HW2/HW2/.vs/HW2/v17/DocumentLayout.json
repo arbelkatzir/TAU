@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\HW2\\HW2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{826A9C60-0BF8-47F9-BB49-3C4E0F104C02}|HW2.vcxproj|C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\HW2\\HW2\\ex2_322889890_123456789.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{826A9C60-0BF8-47F9-BB49-3C4E0F104C02}|HW2.vcxproj|solutionrelative:ex2_322889890_123456789.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826A9C60-0BF8-47F9-BB49-3C4E0F104C02}|HW2.vcxproj|C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\HW2\\HW2\\ex1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{826A9C60-0BF8-47F9-BB49-3C4E0F104C02}|HW2.vcxproj|solutionrelative:ex1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex2_322889890_123456789.c",
+              "DocumentMoniker": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\HW2\\HW2\\ex2_322889890_123456789.c",
+              "RelativeDocumentMoniker": "ex2_322889890_123456789.c",
+              "ToolTip": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\HW2\\HW2\\ex2_322889890_123456789.c",
+              "RelativeToolTip": "ex2_322889890_123456789.c",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-04T13:25:02.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ex1.c",
+              "DocumentMoniker": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\HW2\\HW2\\ex1.c",
+              "RelativeDocumentMoniker": "ex1.c",
+              "ToolTip": "C:\\Users\\yuval\\OneDrive\\Pictures\\Documents\\arbel\\Data Science\\TAU\\C\\HW2\\HW2\\ex1.c",
+              "RelativeToolTip": "ex1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-02T15:20:05.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
